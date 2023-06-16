@@ -1,5 +1,5 @@
-### Hi 👋
+**Hi 👋**
+I'm ✨ haeun ✨
 
-<!--
-** I'm ✨ haeun ✨
--->
+## Studying
+- spring
