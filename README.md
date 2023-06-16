@@ -1,6 +1,4 @@
 **Hi 👋**
 
 I'm ✨ haeun ✨
-
-## Studying
-- spring
+Studying ... spring!
