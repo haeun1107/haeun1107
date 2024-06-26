@@ -28,7 +28,7 @@
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun1107&layout=compact&hide_border=true&bg_color=FEF2F4&title_color=FFB1B1&height=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun1107&layout=compact&hide_border=true&bg_color=FFF6F6&title_color=FFB1B1&height=60)
 <br><br>
 ![github](https://github-readme-stats.vercel.app/api?username=haeun1107&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=FFB1B1&text_color=5C5C5C&icon_color=FF34B3)
 
