@@ -17,14 +17,12 @@
 - 🔧 Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
 - 🧠 Currently conducting **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
 - ☁️ Interested in system design, cloud deployment, and integrating AI into backend workflows
-<br>
 
 ## 📱 Featured App
 
 - **신입사UP – Job Training App for Newcomers**  
   A mobile app that helps newcomers learn essential workplace skills and business manners.  
   → [Download on App Store](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%85%EC%82%ACup/id6746717577)
-<br>
 
 ## 🏆 Awards
 
@@ -38,8 +36,6 @@
 - 2024 사물인터넷 혁신융합대학 IN-JEJU CHALLENGE **최우수상** (2024.12)
 - 한국통신학회 동계종합학술발표회 아이디어 경진대회 **우수상** (2025.02) 
 - S.M.A.R.T 토너먼트 **최우수상** (2025.06) 
-
-<br>
 
 ## 💻 Tech Stack
 
@@ -55,16 +51,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<br>
 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun1107&layout=compact&hide_border=true&bg_color=FFF6F6&title_color=FFB1B1)
 <br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haeun1107&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=FFB1B1&text_color=5C5C5C&icon_color=FF34B3)
-
-<br>
-
-## 📝 Contact
-
-- 📬 Email: haeun9394@gmail.com
