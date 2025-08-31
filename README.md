@@ -15,7 +15,7 @@
 
 - 🎓 Majoring in **Computer Engineering** @ Dongguk University  
 - 🔧 Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
-- 🧠 Currently conducting **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
+- 🧠 Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
 - ☁️ Interested in system design, cloud deployment, and integrating AI into backend workflows
 
 ## 📱 Featured App
