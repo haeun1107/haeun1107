@@ -11,20 +11,20 @@
 </div>
 
 
-## 🙋‍♀️ About Me
+## About Me
 
-- 🎓 Majoring in **Computer Engineering** @ Dongguk University  
-- 🔧 Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
-- 🧠 Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
-- ☁️ Interested in system design, cloud deployment, and integrating AI into backend workflows
+- Majoring in **Computer Engineering** @ Dongguk University  
+- Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
+- Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
+- Interested in system design, cloud deployment, and integrating AI into backend workflows
 
-## 📱 Featured App
+## Featured App
 
 - **신입사UP – Job Training App for Newcomers**  
   A mobile app that helps newcomers learn essential workplace skills and business manners.  
   → [Download on App Store](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%85%EC%82%ACup/id6746717577)
 
-## 🏆 Awards
+## Awards
 
 - 공과대학 X AI융합대학 아이디어 경진대회  **대상**  (2023.11)
 - Farm System 경진대회 **최우수상**  (2024.02) 
@@ -37,7 +37,7 @@
 - 한국통신학회 동계종합학술발표회 아이디어 경진대회 **우수상** (2025.02) 
 - S.M.A.R.T 토너먼트 **최우수상** (2025.06) 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +52,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun1107&layout=compact&hide_border=true&bg_color=FFF6F6&title_color=FFB1B1)
 <br><br>
