@@ -37,6 +37,7 @@
 - 한국통신학회 동계종합학술발표회 아이디어 경진대회 **우수상** (2025.02) 
 - S.M.A.R.T 토너먼트 **최우수상** (2025.06)
 - 2025 사물인터넷 혁신융합대학 IN-JEJU CHALLENGE **최우수상** (2025.08)
+- 매경미디어 NEXT AI 해커톤 **대상** (2025.12.06)
 
 ## Tech Stack
 
@@ -51,10 +52,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun1107&layout=compact&hide_border=true&bg_color=FFF6F6&title_color=FFB1B1)
-<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haeun1107&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=FFB1B1&text_color=5C5C5C&icon_color=FF34B3)
