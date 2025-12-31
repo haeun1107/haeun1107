@@ -13,9 +13,10 @@
 
 ## About Me
 
-- Majoring in **Computer Engineering** @ Dongguk University  
+- Majoring in **Computer Engineering** @ Dongguk University
+- Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore**
+- Worked as a intern at **LG AI Research** for 4 months, gaining hands-on experience with LLM/VLM models and AI-driven pipelines
 - Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
-- Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore (NUS)**  
 - Interested in system design, cloud deployment, and integrating AI into backend workflows
 
 ## Featured App
