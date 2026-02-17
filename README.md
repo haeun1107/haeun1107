@@ -16,6 +16,7 @@
 - Majoring in **Computer Engineering** @ Dongguk University
 - Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore**
 - Worked as a intern at **LG AI Research** for 4 months, gaining hands-on experience with LLM/VLM models and AI-driven pipelines
+- Currently working as an **Data Engineering Intern at SAP Labs Korea**, developing AI-driven systems and backend infrastructure.
 - Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication  
 - Interested in system design, cloud deployment, and integrating AI into backend workflows
 
