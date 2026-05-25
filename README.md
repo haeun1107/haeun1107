@@ -13,13 +13,12 @@
 
 ## About Me
 
+- Working as an **AI Engineer** at **Hana Securities**, developing intelligent AI agents and scalable pipelines for financial data analytics.
 - Majoring in **Computer Engineering** @ Dongguk University
 - Conducted **Medical Image Segmentation Research** at the **Computer Vision Lab, National University of Singapore**.
-- Worked as a research intern at **LG AI Research**, gaining hands-on experience with LLM/VLM models and AI-driven pipelines.
+- Worked as a research intern at **LG AI Research**, gaining hands-on experience with **Exaone VLM** models and AI-driven pipelines.
 - Completed **Data Engineering Internship** at **SAP Labs Korea**, focusing on AI-driven systems and backend infrastructure.
-- Experienced in building real-world services using **Spring Boot**, REST APIs, and JWT-based authentication.
-- Focused on **Engineering Completeness**: bridging the gap between advanced AI research and production-ready backend systems.
-- Interested in system design, cloud deployment, and optimizing AI-integrated workflows.
+- Skilled in end-to-end backend development, from system architecture design to deploying production-ready services.
 
 ## Featured App
 
